@@ -1,0 +1,14 @@
+﻿Column Name,Description
+cut,cut refers to one of the 10 or so most common diamond cuts. This dataset has an additional one called the 'Cushion Modified'.
+color,Clear diamonds are graded D-Z. The higher letters more yellowish but are often better values since color is hard to determine once in a ring.
+clarity,"clarity refers the inclusions (i.e., internal flaws) in the diamonds seen though a jewelers loupe or microscope. Fewer and smaller are better."
+carat_weight,carat_weight Refers to the mass of the diamond. It's loosely connected with dimension of a diamond but cut and cut_quality tends to play an equally large if not larger role.
+cut_quality,cut_quality refers the GIA Cut Grading System which was developed in 2005 and is de facto standard.
+lab,"lab is the grading lab. The big three are GIA, IGI and HRD. Each diamond gets a lab certificate that looks like this."
+table_percent,table_percent are the relative measurements of the flat part of the top and the depth. This varies somewhat by cut.
+symmetry,polish and symmetry are what you would expect.
+polish,polish and symmetry are what you would expect.
+meas_length,the absolute length measurements of stone.
+meas_width,the absolute width measurements of stone.
+meas_depth,the absolute depth measurements of stone.
+total_sales_price,total_sales_price is priced in dollars.
